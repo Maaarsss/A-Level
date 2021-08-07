@@ -1,7 +1,7 @@
 package Hello;
 import java.util.Scanner;
 
-public class Task2
+public class Task0
 {
     public static void main(String[] args)
     {
