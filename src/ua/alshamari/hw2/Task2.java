@@ -1,6 +1,6 @@
-package Hello;
+package ua.alshamari.hw2;
 
-public class Task3
+public class Task2
 {
     static boolean dividesbytwo (int a)
     {

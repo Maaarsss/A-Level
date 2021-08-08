@@ -1,6 +1,6 @@
-package Hello;
+package ua.alshamari.hw2;
 
-public class Task2
+public class Task1
 {
     public static void main(String[] args)
     {
