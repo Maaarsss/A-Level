@@ -19,7 +19,7 @@ public class Task3
         do {
             System.out.println("Введите предположенное: ");
             quess = console.nextInt();
-            System.out.println("Ваш число: " + quess);
+            System.out.println("Ваше число: " + quess);
             if (quess == secret) {
                 System.out.println("Угадал!");
             } else if (quess < secret) {
