@@ -23,7 +23,8 @@ public class Phone {
         System.out.println("Звонит - " + name);
     }
 
-    public int getNumber() {
+    public int getNumber()
+    {
         return number;
     }
 
